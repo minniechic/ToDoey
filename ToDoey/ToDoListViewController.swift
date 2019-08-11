@@ -11,7 +11,7 @@ import UIKit
 class ToDoListViewController: UITableViewController {
 
     
-    var itemArray = ["Find Mike", "Buy Eggs", "Whatever"]
+    var itemArray = ["Find Mike", "Buy Eggs", "Whatever","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p"]
     
     let defaults = UserDefaults.standard
     override func viewDidLoad() {
